@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_48ee791cd62072f91a1de0e06ba399f298bd3cd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_50c2fbfe24440532a01b4f0ab0623fa8cba0cfc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialdrawer-5.6.0_ca978124b19a8b0f9daa15b956941f4a0450a6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_935fd0b0ec7f69157c1e7c01039567a6a55f4ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_7a214f7e51684caeb611f8ed1f54c6c1a04265d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_c4a2e4318abcd84934727e71e7b3e04b7f6c585d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_2f5bd1e1b4bccf0c7214f76f88355d10c223f92d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_b61ae74ab82e24d2b8592f609ff25b45b9898d1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6320c48cf597c9b059cad74b201bdccba5feb627/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_2690b6845a5e1f235cada1c37afebfd5bb423bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_07f8b2d270e19ffab814ba08ad866cf3213a2662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_4c88748e3fad1dc3bcd23cd2ce5288c25038645e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_66fb547f1bd83e612d00a3e08e06eb04b430a551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_7ab385f1139a6ad642dae97f54fb40ca24584422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_f9398b63e1a6425cce5d4001ac71a3f6ee2394bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_c77d934aa594b7877051b507ae16f0f101f0ee62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_8c7cb17a1bbee8051f078073ff405db9de5fb1ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_b19c398ef8fd61f017eac0077f5f81b9c1d9fa83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_7ef50c095a0b901b18928cda705bfc4e2f0f12b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_811288e2237d90c084d8801f6a8d7de80038879a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d02810ad3d3610ab22f5ea6714e1b7ec3605f1e">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_984d57b92df80802cbd2c6d412d91fa4cf2a178e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_e9f61afbac0e8e22fa98db386517eaada148392b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_28dd8371f52f425edcd04e2180f386726ac0dc9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_51a898fd95700257fa2c59fa6912af40dd011c53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b471a20a9e6f4cca631e433ce1536dd5be99dc0">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_94f6e5560ad3863271196135918c9db8782f94d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_6b63f29f52866f0c9d71a95fd5a61ebf4ef4aefc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_6a6c731b415d2d74d787520b487a5c5d775ab26c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_b2084019d2924a219e45bb1d08026f3cd745d5cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/octicons-typeface/3.0.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a3332adcdc1cdd7ed9a2f6a90f322c0e0c89ab91">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-octicons-typeface-3.0.0.1_6cac9be35e8896ab495d3c3a39c2c375d94abb0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_998879ed23a67ba9948e2e44008f7469ce585ec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_df93b8bff8dc576821bd8cb8b76a9dc9d3a191cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_2c4e387670534c586a10b2b506f9ebece4b6a772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-youtube/v3-rev181-1.22.0/664988926d2f55ad78cceac473cc51dd4bc5bfcc/google-api-services-youtube-v3-rev181-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="664988926d2f55ad78cceac473cc51dd4bc5bfcc">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-youtube-v3-rev181-1.22.0_af9c8aedf45e9462105e86d7ae8459ba73507a38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_0421e3bdeddcc60b2561a49a5296736f04670fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_d44d3716ac13fb652ff736bf25d3e765964dd1ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_d6b5098fb70d59bbebb06cf1e98f3466ad896923/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_55e37eca1912d52d595fb50178b9620841cd1e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_8586748526614c8b19e0b58074c2f1c9f0fdb6db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_88219ab18f842ce9332ec93775c17337d48e9317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_12a3abc727b3d7ca19078ac7f1a443ef5cfde571/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_9081de6f50e03b3e50cff496b74068e03db95f58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_ec7a3799a3dc3794e6c645b1533f96e211d7bf71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_c420aeacd1d5cc4a180342e7678364d9e7523fc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_945fde155c2b42258f2ab80f4d57e67b42cb79a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialize-1.0.0_e42ba3b4010aa7753401232a7dd230b81658f2bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_aea1a17790991cf514616a8c57dd9bc4ae14be2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_9022896469f44178a4890cbb98d1aab819f4d0b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_5102fc538be78ffa69f63330afc99bf316b1c31d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_d335a89a20ab0cb09dc843a41f10069bf784e05d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_946c3669aad813cd65447081658a76f39afbe675/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fastadapter-1.8.0_32a47a8743d72d98fc430c5993f96c75ec32d9d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_4dec33cf9f2ca092b23319c90591edbfa085bfd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_5b4ccaaeb7f61bcb207f93e200ff71f7fa98f17b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_ad43fcbdc84f005715a6849ad4df637188bf4fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_0004ee547a82c463c6f1c8a8874a0d0ffeba95a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_8a4d47b5dadf3e4709bec56a80726ecf426b5f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_aaab90eef53fb455f61cef87e501b4ea2572ac4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_0b8dce1e4f3afc55ef2b6b426b02d5e9b4e5d6c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_1174b4f404da629ea2d0458763ced2464a718eab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_4102f6434efb321242612a99b80e4b0bd11f3f6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_dff6db047535b42c3bba884b1bbf4d202ce41635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_8afe246ed2d2d8a2bb8d11ea06e8897c86ad6647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_33b812309a90ee08513e69f57574e633e8a99730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_277a86a00f1e1ccbc94a71d9f6c02d46d6a93d59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_a92ce6dc8d0ef9e348b07899ff5ff62ce107a1eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_40451b3abd6d94c3e2a044cd4465578a157d032f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_edbd530323e136df58d65dc21036fbfdbb381a7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/crossfadedrawerlayout/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ad78a00a0f2412d5078e8a2acfa02c28faedf9ff">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-crossfadedrawerlayout-1.0.0_0f833c227f661012a027ca14b51c5911360fccd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_33028e6bcd39f024e34b1b701f1198d4da0c90c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_cf3e7ffcc3b9313567753a3be103415beb9538d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_62dbe8890941a7610709fc148a9457fddb59193f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_3227bea6d66032a25a6346bf435c88eae9b1562d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_4df8e99c6ac21ebd784d662014654d8c04d339c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_52e0e8051c4c17e99f5f378ef7fe99db4e5dd346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_574ee800cbefd4d2a8c655fd7e922b111861b376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ce13995228fbf307a743527f3d703ac72b3b8b30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_71ce3b5517153a3cdad11bb32595a05d0258d731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_06ef9daaf47ac42ffa858818a69429fa8dcc2481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/fontawesome-typeface/4.6.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85df25d7afb26b40d1eaaa7382238bb3cb95591c">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fontawesome-typeface-4.6.0.3_6d66bc1e1bcfe164f0c37b79a2bdceb89c4ad8b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/google-material-typeface/2.2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-google-material-typeface-2.2.0.1_607efc120ea0053141f57c89faa57e6ec83d36d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_6315b8b0a942b6273d089712986844c50c3c360e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_29dc6a783e795b6fc09f232cd898f9a37748bc0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_6c3f40d24415eb939c385c3283b3f528cc10bd1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_d4a439727fa4cc69735425e78d12fb101f3c7db2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_0d027c03b9e8e73dd4ff5a1c4a00b14d93d0c509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_6732b40292d8428da6b499d1d00b9ff32b123df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-2.8.0_7ad2a5a8d6c0cfd04d43bf4f34c302b8cf6c0d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_df4ebef4cf9ce8caa109044a7176131557f4416b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ab8a4903076897a8fe029433ba0c3c3f958712ce">
+        <dex dex="/home/ganeshsubramaniyam/Documents/Funraaga/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.sothree.slidinguppanel-library-3.3.1_c210adc7d0f1f78cc90ecdf7a18861f8b9e359d9/classes.dex" />
+    </item>
+
+</items>

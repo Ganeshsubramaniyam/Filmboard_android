@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen_Activity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/splacebg"
+        android:background="@drawable/splash"/>
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/splashlogo"
+        android:background="@drawable/funraaga_logo"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:text="A Place for Entertainment"
+        android:textColor="#FFFFFF"
+        android:id="@+id/splashtitle"
+        android:layout_below="@+id/splashlogo"
+        android:layout_centerHorizontal="true" />
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/splashprogress"
+        android:layout_below="@+id/splashtitle"
+        android:layout_marginTop="10dp"
+        style="@android:style/Widget.ProgressBar.Small"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/splashcopyright"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:textColor="#FFFFFF"
+        android:layout_centerHorizontal="true"
+        android:text="Copyrighted 2016 to cozmoz.in"/>
+
+
+</RelativeLayout>

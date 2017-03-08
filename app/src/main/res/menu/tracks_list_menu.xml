@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/popupplay"
+        android:title="Play"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/popupplaynext"
+        android:title="Play next"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/popupaddtoqueue"
+        android:title="Add to queue"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/popupaddtoplaylist"
+        android:title="Add to playlist"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/popuptrackshare"
+        android:title="Share"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/popupfileinfo"
+        android:title="Track Information"
+        app:showAsAction="ifRoom"
+        />
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1081114095601",
+    "firebase_url": "https://admob-app-id-1317926905.firebaseio.com",
+    "project_id": "admob-app-id-1317926905",
+    "storage_bucket": "admob-app-id-1317926905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081114095601:android:9f56816d53e9edee",
+        "android_client_info": {
+          "package_name": "com.cozmoz.funraaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081114095601-1khth4f2skc5rjohqr270s6lqm0tvgfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStvA542tBB6rNm-wirT86I3XBDPsYEQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

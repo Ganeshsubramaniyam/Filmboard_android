@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_white_1000"
+    tools:context="com.cozmoz.funraaga.Download_Activity">
+
+    <RelativeLayout
+        android:id="@+id/frame_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        android:background="#ffffff">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_marginTop="2dp"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+        <ImageView
+            android:id="@+id/downloadposter"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@id/adView"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/downloadlegend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/downloadposter"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="File Information"
+            android:textAllCaps="true"
+            android:textColor="@color/md_black_1000"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/downloadfilename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/downloadlegend"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="25dp"
+            android:text="File Name"
+            android:textColor="@color/md_black_1000"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/downloadmovieoralbum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/downloadfilename"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:text="Movie or Album"
+            android:textColor="@color/md_black_1000"
+            android:textSize="18dp" />
+
+        <Button
+            android:id="@+id/downloadbutton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/downloadmovieoralbum"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="20dp"
+            android:background="#4CAFC2"
+            android:text="Download" />
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/downloadbutton"
+            android:layout_alignStart="@+id/downloadbutton"
+            android:layout_below="@+id/downloadbutton"
+            android:layout_marginTop="25dp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</RelativeLayout>

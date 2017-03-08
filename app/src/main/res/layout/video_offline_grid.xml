@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/video_card_view"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            card_view:cardBackgroundColor="#FBF9F9"
+            card_view:cardCornerRadius="2dp"
+            card_view:cardElevation="4dp"
+            card_view:contentPaddingBottom="5dp"
+            card_view:contentPaddingLeft="10dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="10dp">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/videocontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignEnd="@+id/video_card_view"
+                android:layout_alignRight="@+id/video_card_view"
+                android:layout_below="@+id/video_card_view">
+
+                <ImageView
+                    android:id="@+id/Vid_Off_Img"
+                    android:layout_width="100dp"
+                    android:layout_height="90dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:scaleType="fitXY" />
+                <TextView
+                    android:id="@+id/Video_Off_Title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/Vid_Off_Img"
+                    android:maxLines="2"
+                    android:textColor="@color/material_drawer_dark_background"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="15dp"
+                    android:text="Video Title"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                <TextView
+                    android:id="@+id/Video_Off_Duration"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/Video_Off_Title"
+                    android:layout_below="@+id/Video_Off_Title"
+                    android:textColor="@color/md_grey_400"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="15dp"
+                    android:text="0:00"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <ImageButton
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/btn_video_options"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/three_dot_menu"/>
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+    </RelativeLayout>
+
+</LinearLayout>
